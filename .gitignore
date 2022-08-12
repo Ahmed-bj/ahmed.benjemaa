@@ -1,0 +1,16 @@
+
+# Frontend
+package-lock.json
+node_modules
+
+# misc Frontend
+.env
+.env.development
+.env.test
+.env.production
+
+#Other
+.history
+.vscode
+tmp
+*.zip
